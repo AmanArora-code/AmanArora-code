@@ -2,7 +2,7 @@
 
 🚀 **MCA Graduate | MERN Stack Developer | Problem Solver**  
 I’m an MCA graduate passionate about **building full stack web applications** and sharpening my **Data Structures & Algorithms** skills with Java.  
-I love transforming ideas into reliable, efficient, and scalable solutions.  
+**Always curious to learn, build, and grow!**   
 
 ---
 

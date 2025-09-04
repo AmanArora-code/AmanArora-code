@@ -6,13 +6,21 @@ I love transforming ideas into reliable, efficient, and scalable solutions.
 
 ---
 
-### 🛠️ Tech Stack & Skills  
-- **Languages:** Java, JavaScript, SQL  
-- **Frontend:** HTML, CSS, Bootstrap, React , TailwindCss 
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, MySQL  
-- **Core CS:** Data Structures & Algorithms, OOPs, DBMS  
-- **Others:** Git/GitHub, REST APIs, MS Office  
+## 🛠️ Skills  
+
+- **Programming Languages:** Java, JavaScript, SQL
+- **Frontend Development:** HTML, CSS, React.js, Bootstrap, Tailwind CSS  
+- **Backend & Tools:** Node.js, Express.js, EJS, MySQL, MongoDB, Git/GitHub, REST API  
+- **Core CS Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), DBMS, Operating Systems, Computer Networks  
+- **Developer Tools:** VS Code, IntelliJ IDEA, MS Office  
+- **Soft Skills:** Problem Solving, Team Management, Communication, Leadership, Self-Learning  
+
+---
+
+## 📌 Competitive Programming  
+
+- 🏆 Solved **200+ DSA problems** on **LeetCode**  
+- 🔗 [My LeetCode Profile](https://leetcode.com/u/aroraji_codes/)  
 
 ---
 
